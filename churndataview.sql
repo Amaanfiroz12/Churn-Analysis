@@ -1,0 +1,1 @@
+SELECT * FROM churn.vw_churndata;
